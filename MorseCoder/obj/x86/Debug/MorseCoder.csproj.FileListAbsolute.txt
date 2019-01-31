@@ -1,0 +1,5 @@
+c:\users\kanel\documents\visual studio 2010\Projects\MorseCoder\MorseCoder\bin\Debug\MorseCoder.exe
+c:\users\kanel\documents\visual studio 2010\Projects\MorseCoder\MorseCoder\bin\Debug\MorseCoder.pdb
+c:\users\kanel\documents\visual studio 2010\Projects\MorseCoder\MorseCoder\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kanel\documents\visual studio 2010\Projects\MorseCoder\MorseCoder\obj\x86\Debug\MorseCoder.exe
+c:\users\kanel\documents\visual studio 2010\Projects\MorseCoder\MorseCoder\obj\x86\Debug\MorseCoder.pdb
